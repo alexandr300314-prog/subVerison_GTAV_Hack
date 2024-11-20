@@ -408,3 +408,4 @@ public:
 				m_dwpUnkModelStruct;
 };
 #endif
+

@@ -47,3 +47,4 @@ inline T prtHandler<T>::value()
 	g_pMemMan->readMem<T>(m_ptr, &out);
 	return out;
 }
+

@@ -282,3 +282,4 @@ class settings
 extern settings*		g_pSettings;
 
 #endif
+

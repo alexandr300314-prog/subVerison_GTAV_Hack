@@ -38,3 +38,4 @@ DWORD_PTR scriptGlobal::get()
 	return 8 * (m_index & 0x3FFFF) + dwpBuffer;
 }
 
+
